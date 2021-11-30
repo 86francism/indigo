@@ -1,5 +1,5 @@
 INDIGO_WELCOME_MESSAGE: "The place for all your online learning"
-INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+INDIGO_PRIMARY_COLOR: "#228B22" # forest green
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
@@ -13,5 +13,9 @@ INDIGO_FOOTER_NAV_LINKS:
 INDIGO_FOOTER_LEGAL_LINKS:
     - title: "Terms of service"
       url: "/tos"
-    - title: "Indigo theme for Open edX"
+    - title: "Honor Code"
+      url: "/honor"
+    - title: "Privacy"
+      url: "/privacy"
+    - title: "Indigo Theme"
       url: "https://github.com/overhangio/indigo"
