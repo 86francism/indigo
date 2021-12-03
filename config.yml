@@ -1,5 +1,5 @@
-INDIGO_WELCOME_MESSAGE: "Leadership and learning are indispensable to each other. - JFK"
-INDIGO_PRIMARY_COLOR: "#228B22" # forest green
+INDIGO_WELCOME_MESSAGE: "an Online Learning Initiative of Philippine Academy of Leadership and Management, Inc."
+INDIGO_PRIMARY_COLOR: "#808080" # gray
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
