@@ -1,4 +1,4 @@
-INDIGO_WELCOME_MESSAGE: "an Online Learning Initiative of Philippine Academy of Leadership and Management, Inc."
+INDIGO_WELCOME_MESSAGE: "a Learning Initiative of Philippine Academy of Leadership and Management, Inc."
 INDIGO_PRIMARY_COLOR: "#808080" # gray
 
 # Footer links are dictionaries with a "title" and "url"
