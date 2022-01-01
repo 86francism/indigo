@@ -1,4 +1,4 @@
-INDIGO_WELCOME_MESSAGE: "an Online Learning Initiative of Philippine Academy of Leadership and Management, Inc."
+INDIGO_WELCOME_MESSAGE: "“Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” -Henry Ford"
 INDIGO_PRIMARY_COLOR: "#808080" # gray
 
 # Footer links are dictionaries with a "title" and "url"
